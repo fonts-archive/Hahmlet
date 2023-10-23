@@ -128,5 +128,6 @@ font-family: 'Hahmlet';
 ### 라이센스 본문
 
 ```
-국제 SIL(Summer Institute of Linguistics)에서 만든 오픈폰트 라이선스로, OFL 폰트는 이용 대상 및 목적에 제한없이 자유롭게 이용 가능 합니다.
+This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is copied below, and is also available with a FAQ at http://scripts.sil.org/OFL 
+[번역] 이 폰트 소프트웨어는 SIL Open Font License, Version 1.1.를 따릅니다. http://scripts.sil.org/OFL 의 FAQ에서도 확인할 수 있습니다.
 ```
